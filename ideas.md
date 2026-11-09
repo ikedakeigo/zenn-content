@@ -6,5 +6,6 @@
 | kintone-app-from-scratch | kintoneアプリをゼロから作る手順（フィールド設計〜プロセス管理） | 未着手 | 未着手 | スクショ多め |
 | claude-code-kintone-customize | Claude Codeでkintoneカスタマイズ（TypeScript + Vite） | 未着手 | 未着手 | |
 | claude-code-clear-compact-btw | 同じミスが続いたら/clearでやり直す（/compact・/btwとの使い分け） | 公開待ち（published: true・PRマージで公開） | 投稿済み（10/17、本人申告） | 10/17に投稿した版とは別に、10/18に作り直した版（CTA「全手順はプロフのリンクから」）は未投稿 |
+| claude-code-auto-memory | Claude Codeの自動メモリ：「覚えて」の一言で残す（CLAUDE.mdとの使い分け） | 未着手（記憶の4層の記事でまとめる予定） | 台本済み（11/09、Codexレビュー待ち） | コンテキスト管理シリーズ④。記事より先に投稿するのでCTAは保存。投稿前に実機で保存の表示を確認 |
 
 ステータス：未着手 → 構成 → 下書き → 公開 ／ リール：未着手 → 台本済み → 投稿済み
